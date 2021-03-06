@@ -1,4 +1,5 @@
 # mediapipe-python-sample
+hello felicia
 [MediaPipe](https://github.com/google/mediapipe)のPythonパッケージのサンプルです。<br>
 2021/03/03時点でPython実装のある以下6機能について用意しています。
 * [Hands](https://google.github.io/mediapipe/solutions/hands)<br>
